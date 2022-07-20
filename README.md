@@ -1,5 +1,5 @@
 Welcome to your new dbt project!
-
+![Image 7-20-22 at 6 37 PM](https://user-images.githubusercontent.com/41656028/180060010-b9394b19-a5bc-46b8-9e78-d61ce1fb06f5.jpg)
 ### Using the starter project
 
 Try running the following commands:
